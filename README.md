@@ -8,12 +8,12 @@ Welcome to the official submission repository for the **SRCAS Hackathon** organi
 
 Please fill in the following details in this README file before submitting your repository:
 
-- **Team Name:** [Your Team Name]  
-- **Team ID:** [Your Team ID]  
-- **Problem Statement ID:** [Problem Statement ID]  
-- **Project Title:** [Your Project Title]  
-- **Team Leader Name:** [Team Leader's Full Name]  
-- **Team Members:** [Team Member's Names]  
+- **Team Name:** BlockChain Wizards  
+- **Team ID:** T2PS02T17
+- **Problem Statement ID:** T2PS02
+- **Project Title:** NFT based Conservation Funding Platform
+- **Team Leader Name:** JEEVA M
+- **Team Members:** KIRUBHA SHANKAR S, KOKILA K, MADHUSRI T
 
 ---
 
